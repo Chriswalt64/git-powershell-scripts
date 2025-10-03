@@ -6,7 +6,7 @@ function gitfart {
 	git push origin main 
 	$fartSound.open('brain-fart.mp3')
 	$fartSound.Play()
-	echo "Repo: shitted"
+	echo "Pushed to repo."
 	}
 	$fartSound.Close()
 	
